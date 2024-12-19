@@ -1,0 +1,25 @@
+[project]
+authors = ["Jacob Oursland <jacob.oursland@gmail.com>"]
+channels = ["conda-forge", "osdag"]
+description = "Add a short description here"
+name = "osdag-pixi"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+osdag = "osdag"
+
+[dependencies]
+osdag = "*"
+python = "3.10"
+numpy = "*"
+openpyxl = "*"
+pandas = "*"
+pynput = "*"
+pyqt = "*"
+pythonocc-core = "*"
+pylatex = "*"
+pygithub = "*"
+pyyaml = "*"
+smesh = "*"
+tbb = "*"
