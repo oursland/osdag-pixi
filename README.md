@@ -4,8 +4,9 @@ This is an example of how to install and run [Osdag](https://osdag.fossee.in/) u
 
 1. Install `pixi`:
 
-  Windows: `iwr -useb https://pixi.sh/install.ps1 | iex`
-  Linux/macOS: `curl -fsSL https://pixi.sh/install.sh | bash`
+  * Windows: `iwr -useb https://pixi.sh/install.ps1 | iex`
+
+  * Linux/macOS: `curl -fsSL https://pixi.sh/install.sh | bash`
 
 2. Launch `osdag`:
 
