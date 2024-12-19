@@ -10,6 +10,6 @@ This is an example of how to install and run [Osdag](https://osdag.fossee.in/) u
 
 2. Launch `osdag`:
 
-  `pixi run osdag`
+  * `pixi run osdag`
 
-  This will install the environment, if necessary, and launch Osdag.  The first launch takes a minute to setup.
+    This will install the environment, if necessary, and launch Osdag.  The first launch takes a minute to setup.
